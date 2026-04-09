@@ -1,4 +1,4 @@
-function FunFactCard({ fact}) {
+function FunFactCard({ fact }) {
     return (
         <div class = "fact">
             <h2>Fun Fact</h2>
